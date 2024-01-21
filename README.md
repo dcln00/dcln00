@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey there 👋 I'm Nii Aryeh
+
+Some facts about me:
+
+- Mostly focused on JavaScript ;)
 
 <!--
 **dcln00/dcln00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
