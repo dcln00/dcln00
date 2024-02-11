@@ -1,8 +1,14 @@
-# Hey there 👋 I'm Nii Aryeh
+## Hey there 👋 I'm Nii Aryeh
+###### An Amazing Full Stack Developer from Accra, Ghana.
+
 
 Some facts about me:
 
 - Mostly focused on JavaScript ;)
+- Love Coffee
+- Obsessed with Cats
+
+[![Nii's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcln00&theme=gotham)](https://niiaryeh.com)
 
 <!--
 **dcln00/dcln00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
