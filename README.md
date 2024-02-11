@@ -4,11 +4,13 @@
 
 Some facts about me:
 
-- Mostly focused on JavaScript ;)
-- Love Coffee
-- Obsessed with Cats
+- Mostly focused on JavaScript 💻
+- Loves Coffee ☕
+- Obsessed with Cats 🐈
 
-[![Nii's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcln00&theme=gotham)](https://niiaryeh.com)
+[![Nii's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=dcln00)](https://niiaryeh.com)
+
+<!--[![Nii's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcln00&theme=gotham)](https://niiaryeh.com)-->
 
 <!--
 **dcln00/dcln00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
